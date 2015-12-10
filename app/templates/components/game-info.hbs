@@ -1,0 +1,19 @@
+<div class="card-header">
+  <h3 class="item-title bowl-title">{{game.bowl.title}}</h3>
+  <span class="bowl-time">{{game.bowl.time}}</span>
+  {{#if game.bowl.network}}
+    <span class="bowl-network">{{game.bowl.network}}</span>
+  {{/if}}
+</div>
+<div class="card-block">
+{{#each game.teams as |team|}}
+  {{team-info team=team}}
+{{/each}}
+</div>
+<div class="card-footer picks">
+  <div class="row">
+    {{#each game.picks as |pick|}}
+      {{pick-data pick=pick}}
+    {{/each}}
+  </div>
+</div>

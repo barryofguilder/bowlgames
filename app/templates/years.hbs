@@ -1,0 +1,16 @@
+<div class="bowl-archive">
+  <div class="btn-group">
+    <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Bowl Archive
+    </button>
+    <div class="dropdown-menu">
+      {{#each model as |year|}}
+        {{#link-to 'years.year' year class="dropdown-item"}}
+          {{year}}
+        {{/link-to}}
+      {{/each}}
+    </div>
+  </div>
+</div>
+
+{{outlet}}

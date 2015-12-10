@@ -1,0 +1,18 @@
+
+<h1 class="page-header">{{model.meta.title}}</h1>
+
+<div class="card standings">
+  <div class="card-header">
+    <h3 class="item-title">Current Standings</h3>
+    <span>as of {{model.meta.updatedTime}}</span>
+  </div>
+  <div class="card-block">
+    {{#each model.people as |person|}}
+      {{person-standing person=person}}
+    {{/each}}
+  </div>
+</div>
+
+{{#each model.games as |game|}}
+  {{game-info game=game}}
+{{/each}}

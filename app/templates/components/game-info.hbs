@@ -10,10 +10,6 @@
   {{team-info team=team}}
 {{/each}}
 </div>
-<div class="card-footer picks">
-  <div class="row">
-    {{#each game.picks as |pick|}}
-      {{pick-data pick=pick}}
-    {{/each}}
-  </div>
+<div class="card-footer">
+  {{picks-section picks=game.picks}}
 </div>

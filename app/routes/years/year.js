@@ -20,8 +20,8 @@ export default Ember.Route.extend({
     // If we got here without a 'year' (and therefore without a model)
     // Redirect to the most recent year
     if (!model) {
-      var year = this.modelFor('years').get('lastObject');
-      this.transitionTo('years.year', year);
+      var mostRecentYear = this.modelFor('application').get('lastObject');
+      this.transitionTo('years.year', mostRecentYear);
     }
 
     // Otherwise, let Ember handle it as usual

@@ -1,5 +1,17 @@
 <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
   {{#link-to 'application' class='navbar-brand'}}Bowl Games{{/link-to}}
+  <ul class="nav navbar-nav pull-xs-right">
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Bowl Archive</a>
+      <div class="dropdown-menu dropdown-menu-right">
+        {{#each model as |year|}}
+          {{#link-to 'years.year' year class="dropdown-item"}}
+            {{year}}
+          {{/link-to}}
+        {{/each}}
+      </div>
+    </li>
+  </ul>
 </nav>
 
 <div class="container">

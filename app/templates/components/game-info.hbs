@@ -1,8 +1,8 @@
 <div class="card-header">
   <h3 class="item-title bowl-title">{{game.bowl.title}}</h3>
-  <span class="bowl-time">{{game.bowl.time}}</span>
+  <span class="bowl-time">{{short-time game.bowl.time}}</span>
   {{#if game.bowl.network}}
-    <span class="bowl-network">{{game.bowl.network}}</span>
+    <span class="bowl-network">on {{game.bowl.network}}</span>
   {{/if}}
 </div>
 <div class="card-block">

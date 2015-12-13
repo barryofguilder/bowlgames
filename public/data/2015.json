@@ -1,0 +1,1453 @@
+{
+  "meta": {
+    "title": "2015-2016 Bowl Games",
+    "updatedTime": "2015/12/13 14:30"
+  },
+
+  "people": [{
+    "name": "Jason",
+    "wins": 0,
+    "losses": 0,
+    "isWinner": false
+  }, {
+    "name": "Dad",
+    "wins": 0,
+    "losses": 0,
+    "isWinner": false
+  }, {
+    "name": "Matt",
+    "wins": 0,
+    "losses": 0,
+    "isWinner": false
+  }],
+
+  "games": [{
+    "bowl": {
+      "title": "Air Force Reserve Celebration Bowl",
+      "time": "2015/12/19 12:00",
+      "network": "ABC"
+    },
+    "teams": [{
+      "name": "Alcorn State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2016/alcorn-state-braves",
+      "record": "(9-3, 7-2 SWAC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "North Carolina A&T",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2448/north-carolina-a&t-aggies",
+      "record": "(9-2, 7-1 MEAC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Gildan New Mexico Bowl",
+      "time": "2015/12/19 14:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Arizona",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/12",
+      "record": "(6-6, 3-6 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "New Mexico",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/167",
+      "record": "(7-5, 5-3 MW)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Royal Purple Las Vegas Bowl",
+      "time": "2015/12/19 15:30",
+      "network": "ABC"
+    },
+    "teams": [{
+      "name": "BYU",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/252",
+      "record": "(9-3)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Utah",
+      "ranking": 22,
+      "url": "http://espn.go.com/college-football/team/_/id/254",
+      "record": "(9-3, 6-3 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Raycom Media Camellia Bowl",
+      "time": "2015/12/19 17:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Ohio",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/195",
+      "record": "(8-4, 5-3 MAC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Appalachian State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2026",
+      "record": "(10-2, 7-1 Sun Belt)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Cure Bowl",
+      "time": "2015/12/19 19:00",
+      "network": "CBSSN"
+    },
+    "teams": [{
+      "name": "San Jose State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/23",
+      "record": "(5-7, 4-4 MW)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Georgia State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2247",
+      "record": "(6-6, 5-3 Sun Belt)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "R+L Carriers New Orleans Bowl",
+      "time": "2015/12/19 21:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Arkansas State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2032",
+      "record": "(9-3, 8-0 Sun Belt)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Louisiana Tech",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2348",
+      "record": "(8-4, 6-2 C-USA)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Miami Beach Bowl",
+      "time": "2015/12/21 14:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Western Kentucky",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/98",
+      "record": "(11-2, 8-0 C-USA)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "South Florida",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/58",
+      "record": "(8-4, 6-2 American)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Famous Idaho Potato Bowl",
+      "time": "2015/12/22 15:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Akron",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2006",
+      "record": "(7-5, 5-3 MAC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Utah State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/328",
+      "record": "(6-6, 5-3 MW)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Marmot Boca Raton Bowl",
+      "time": "2015/12/22 19:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Toledo",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2649",
+      "record": "(9-2, 6-2 MAC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Temple",
+      "ranking": 24,
+      "url": "http://espn.go.com/college-football/team/_/id/218",
+      "record": "(10-3, 7-1 American)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "San Diego County Credit Union Poinsettia Bowl",
+      "time": "2015/12/23 16:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Boise State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/68",
+      "record": "(8-4, 5-3 MW)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Northern Illinois",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2459",
+      "record": "(8-5, 6-2 MAC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "GoDaddy Bowl",
+      "time": "2015/12/23 20:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Georgia Southern",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/290",
+      "record": "(8-4, 6-2 Sun Belt)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Bowling Green",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/189",
+      "record": "(10-3, 7-1 MAC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Popeyes Bahamas Bowl",
+      "time": "2015/12/24 12:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Middle Tennessee",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2393/middle-tennessee-blue-raiders",
+      "record": "(7-5, 6-2 C-USA)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Western Michigan",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2711/western-michigan-broncos",
+      "record": "(7-5, 6-2 MAC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Hawai'i Bowl",
+      "time": "2015/12/24 20:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "San Diego State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/21",
+      "record": "(10-3, 8-0 MW)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Cincinnati",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2132",
+      "record": "(7-5, 4-4 American)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "St. Petersburg Bowl",
+      "time": "2015/12/26 11:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Connecticut",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/41",
+      "record": "(6-6, 4-4 American)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Marshall",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/276",
+      "record": "(9-3, 6-2 C-USA)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Hyundai Sun Bowl",
+      "time": "2015/12/26 14:00",
+      "network": "CBS"
+    },
+    "teams": [{
+      "name": "Miami",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2390",
+      "record": "(8-4, 5-3 ACC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Washington State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/265",
+      "record": "(8-4, 6-3 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Zaxby's Heart of Dallas Bowl",
+      "time": "2015/12/26 14:20",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Washington",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/264",
+      "record": "(6-6, 4-5 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Southern Miss",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2572",
+      "record": "(9-4, 7-1 C-USA)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "New Era Pinstripe Bowl",
+      "time": "2015/12/26 15:30",
+      "network": "ABC"
+    },
+    "teams": [{
+      "name": "Indiana",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/84",
+      "record": "(6-6, 2-6 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Duke",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/150",
+      "record": "(7-5, 4-4 ACC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Camping World Independence Bowl",
+      "time": "2015/12/26 17:45",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Tulsa",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/202",
+      "record": "(6-6, 3-5 American)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Virginia Tech",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/259",
+      "record": "(6-6, 4-4 ACC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Foster Farms Bowl",
+      "time": "2015/12/26 21:15",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "UCLA",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/26",
+      "record": "(8-4, 5-4 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Nebraska",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/158",
+      "record": "(5-7, 3-5 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Military Bowl presented By Northrop Grumman",
+      "time": "2015/12/28 14:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Pittsburgh",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/221",
+      "record": "(8-4, 6-2 ACC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Navy",
+      "ranking": 21,
+      "url": "http://espn.go.com/college-football/team/_/id/2426",
+      "record": "(10-2, 7-1 American)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Quick Lane Bowl",
+      "time": "2015/12/28 17:00",
+      "network": "ESPN2"
+    },
+    "teams": [{
+      "name": "Central Michigan",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2117",
+      "record": "(7-5, 6-2 MAC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Minnesota",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/135",
+      "record": "(5-7, 2-6 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Lockheed Martin Armed Forces Bowl",
+      "time": "2015/12/29 14:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "California",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/25",
+      "record": "(7-5, 4-5 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Air Force",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2005",
+      "record": "(8-5, 6-2 MW)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Russell Athletic Bowl",
+      "time": "2015/12/29 17:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "North Carolina",
+      "ranking": 10,
+      "url": "http://espn.go.com/college-football/team/_/id/153",
+      "record": "(11-2, 8-0 ACC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Baylor",
+      "ranking": 17,
+      "url": "http://espn.go.com/college-football/team/_/id/239",
+      "record": "(9-3, 6-3 Big 12)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "NOVA Home Loans Arizona Bowl",
+      "time": "2015/12/29 19:30",
+      "network": "Campus Insiders"
+    },
+    "teams": [{
+      "name": "Nevada",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2440",
+      "record": "(6-6, 4-4 MW)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Colorado State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/36",
+      "record": "(7-5, 5-3 MW)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "AdvoCare V100 Texas Bowl",
+      "time": "2015/12/29 21:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "LSU",
+      "ranking": 20,
+      "url": "http://espn.go.com/college-football/team/_/id/99",
+      "record": "(8-3, 5-3 SEC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Texas Tech",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2641",
+      "record": "(7-5. 4-5 Big 12)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Birmingham Bowl",
+      "time": "2015/12/30 12:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Auburn",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2",
+      "record": "(6-6, 2-6 SEC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Memphis",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/235",
+      "record": "(9-3, 5-3 American)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Belk Bowl",
+      "time": "2015/12/30 15:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "NC State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/152",
+      "record": "(7-5, 3-5 ACC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Mississippi State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/344",
+      "record": "(8-4, 4-4 SEC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Franklin American Mortgage Music City Bowl",
+      "time": "2015/12/30 19:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Texas A&M",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/245",
+      "record": "(8-4, 4-4 SEC)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Louisville",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/97",
+      "record": "(7-5, 5-3 ACC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Holiday Bowl",
+      "time": "2015/12/30 22:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "USC",
+      "ranking": 25,
+      "url": "http://espn.go.com/college-football/team/_/id/30",
+      "record": "(8-5, 6-3 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Wisconsin",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/275",
+      "record": "(9-3, 6-2 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Chick-fil-A Peach Bowl",
+      "time": "2015/12/31 12:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Houston",
+      "ranking": 18,
+      "url": "http://espn.go.com/college-football/team/_/id/248",
+      "record": "(12-1, 7-1 American)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Florida State",
+      "ranking": 9,
+      "url": "http://espn.go.com/college-football/team/_/id/52",
+      "record": "(10-2, 6-2 ACC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "College Football Playoff Semifinal at the Capital One Orange Bowl",
+      "time": "2015/12/31 16:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Oklahoma",
+      "ranking": 4,
+      "url": "http://espn.go.com/college-football/team/_/id/201",
+      "record": "(11-1, 8-1 Big 12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Clemson",
+      "ranking": 1,
+      "url": "http://espn.go.com/college-football/team/_/id/228",
+      "record": "(13-0, 8-0 ACC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "College Football Playoff Semifinal at the Goodyear Cotton Bowl Classic",
+      "time": "2015/12/31 20:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Michigan State",
+      "ranking": 3,
+      "url": "http://espn.go.com/college-football/team/_/id/127",
+      "record": "(12-1, 7-1 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Alabama",
+      "ranking": 2,
+      "url": "http://espn.go.com/college-football/team/_/id/333",
+      "record": "(12-1, 7-1 SEC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Outback Bowl",
+      "time": "2016/1/1 12:00",
+      "network": "ESPN2"
+    },
+    "teams": [{
+      "name": "Northwestern",
+      "ranking": 13,
+      "url": "http://espn.go.com/college-football/team/_/id/77",
+      "record": "(10-2, 6-2 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Tennessee",
+      "ranking": 23,
+      "url": "http://espn.go.com/college-football/team/_/id/2633",
+      "record": "(8-4, 5-2 SEC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Buffalo Wild Wings Citrus Bowl",
+      "time": "2016/1/1 13:00",
+      "network": "ABC"
+    },
+    "teams": [{
+      "name": "Michigan",
+      "ranking": 14,
+      "url": "http://espn.go.com/college-football/team/_/id/130",
+      "record": "(9-3, 6-2 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Florida",
+      "ranking": 19,
+      "url": "http://espn.go.com/college-football/team/_/id/57",
+      "record": "(10-3, 7-1 SEC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "BattleFrog Fiesta Bowl",
+      "time": "2016/1/1 13:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Notre Dame",
+      "ranking": 8,
+      "url": "http://espn.go.com/college-football/team/_/id/87",
+      "record": "(10-2)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Ohio State",
+      "ranking": 7,
+      "url": "http://espn.go.com/college-football/team/_/id/194",
+      "record": "(11-1, 7-1 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Rose Bowl Game Presented by Northwestern Mutual",
+      "time": "2016/1/1 17:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Stanford",
+      "ranking": 6,
+      "url": "http://espn.go.com/college-football/team/_/id/24",
+      "record": "(11-2, 8-1 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Iowa",
+      "ranking": 5,
+      "url": "http://espn.go.com/college-football/team/_/id/2294",
+      "record": "(12-1, 8-0 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Allstate Sugar Bowl",
+      "time": "2016/1/1 21:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Oklahoma State",
+      "ranking": 16,
+      "url": "http://espn.go.com/college-football/team/_/id/197",
+      "record": "(10-2, 7-2 Big 12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Ole Miss",
+      "ranking": 12,
+      "url": "http://espn.go.com/college-football/team/_/id/145",
+      "record": "(9-3, 6-2 SEC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "TaxSlayer Bowl",
+      "time": "2016/1/2 12:00",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Penn State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/213",
+      "record": "(7-5, 4-4 Big Ten)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Georgia",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/61",
+      "record": "(9-3, 5-3 SEC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "AutoZone Liberty Bowl",
+      "time": "2016/1/2 15:20",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Kansas State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/2306",
+      "record": "(6-6, 3-6 Big 12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Arkansas",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/8",
+      "record": "(7-5, 5-3 SEC)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Valero Alamo Bowl",
+      "time": "2016/1/2 18:45",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "Oregon",
+      "ranking": 15,
+      "url": "http://espn.go.com/college-football/team/_/id/2483",
+      "record": "(9-3, 7-2 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "TCU",
+      "ranking": 11,
+      "url": "http://espn.go.com/college-football/team/_/id/2628",
+      "record": "(10-2, 7-2 Big 12)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "Motel 6 Cactus Bowl",
+      "time": "2016/1/2 22:15",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "West Virginia",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/277",
+      "record": "(7-5, 4-5 Big 12)",
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "Arizona State",
+      "ranking": null,
+      "url": "http://espn.go.com/college-football/team/_/id/9",
+      "record": "(6-6, 4-5 Pac-12)",
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }, {
+    "bowl": {
+      "title": "College Football Playoff National Championship Presented by AT&T",
+      "time": "2016/1/11 20:30",
+      "network": "ESPN"
+    },
+    "teams": [{
+      "name": "???",
+      "ranking": null,
+      "url": null,
+      "record": null,
+      "score": null,
+      "isWinner": false
+    }, {
+      "name": "???",
+      "ranking": null,
+      "url": null,
+      "record": null,
+      "score": null,
+      "isWinner": false
+    }],
+    "picks": [{
+      "person": "Jason",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Dad",
+      "team": "",
+      "isCorrect": false
+    }, {
+      "person": "Matt",
+      "team": "",
+      "isCorrect": false
+    }]
+  }]
+}

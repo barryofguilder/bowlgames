@@ -1,23 +1,23 @@
 {
   "meta": {
     "title": "2015-2016 Bowl Games",
-    "updatedTime": "2015/12/13 14:30"
+    "updatedTime": "2015/12/26 15:00"
   },
 
   "people": [{
     "name": "Jason",
-    "wins": 0,
-    "losses": 0,
+    "wins": 8,
+    "losses": 6,
     "isWinner": false
   }, {
     "name": "Dad",
-    "wins": 0,
-    "losses": 0,
-    "isWinner": false
+    "wins": 9,
+    "losses": 5,
+    "isWinner": true
   }, {
     "name": "Matt",
-    "wins": 0,
-    "losses": 0,
+    "wins": 7,
+    "losses": 7,
     "isWinner": false
   }],
 
@@ -32,27 +32,27 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2016/alcorn-state-braves",
       "record": "(9-3, 7-2 SWAC)",
-      "score": null,
+      "score": 34,
       "isWinner": false
     }, {
       "name": "North Carolina A&T",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2448/north-carolina-a&t-aggies",
       "record": "(9-2, 7-1 MEAC)",
-      "score": null,
-      "isWinner": false
+      "score": 41,
+      "isWinner": true
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Alcorn State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Alcorn State",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Alcorn State",
       "isCorrect": false
     }]
   }, {
@@ -66,28 +66,28 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/12",
       "record": "(6-6, 3-6 Pac-12)",
-      "score": null,
-      "isWinner": false
+      "score": 45,
+      "isWinner": true
     }, {
       "name": "New Mexico",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/167",
       "record": "(7-5, 5-3 MW)",
-      "score": null,
+      "score": 37,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
-      "isCorrect": false
+      "team": "Arizona",
+      "isCorrect": true
     }, {
       "person": "Dad",
-      "team": "",
-      "isCorrect": false
+      "team": "Arizona",
+      "isCorrect": true
     }, {
       "person": "Matt",
-      "team": "",
-      "isCorrect": false
+      "team": "Arizona",
+      "isCorrect": true
     }]
   }, {
     "bowl": {
@@ -100,28 +100,28 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/252",
       "record": "(9-3)",
-      "score": null,
+      "score": 28,
       "isWinner": false
     }, {
       "name": "Utah",
       "ranking": 22,
       "url": "http://espn.go.com/college-football/team/_/id/254",
       "record": "(9-3, 6-3 Pac-12)",
-      "score": null,
-      "isWinner": false
+      "score": 35,
+      "isWinner": true
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
-      "isCorrect": false
+      "team": "Utah",
+      "isCorrect": true
     }, {
       "person": "Dad",
-      "team": "",
-      "isCorrect": false
+      "team": "Utah",
+      "isCorrect": true
     }, {
       "person": "Matt",
-      "team": "",
-      "isCorrect": false
+      "team": "Utah",
+      "isCorrect": true
     }]
   }, {
     "bowl": {
@@ -134,28 +134,28 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/195",
       "record": "(8-4, 5-3 MAC)",
-      "score": null,
+      "score": 29,
       "isWinner": false
     }, {
       "name": "Appalachian State",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2026",
       "record": "(10-2, 7-1 Sun Belt)",
-      "score": null,
-      "isWinner": false
+      "score": 31,
+      "isWinner": true
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
-      "isCorrect": false
+      "team": "Appalachian State",
+      "isCorrect": true
     }, {
       "person": "Dad",
-      "team": "",
-      "isCorrect": false
+      "team": "Appalachian State",
+      "isCorrect": true
     }, {
       "person": "Matt",
-      "team": "",
-      "isCorrect": false
+      "team": "Appalachian State",
+      "isCorrect": true
     }]
   }, {
     "bowl": {
@@ -168,27 +168,27 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/23",
       "record": "(5-7, 4-4 MW)",
-      "score": null,
-      "isWinner": false
+      "score": 27,
+      "isWinner": true
     }, {
       "name": "Georgia State",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2247",
       "record": "(6-6, 5-3 Sun Belt)",
-      "score": null,
+      "score": 16,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Georgia State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
-      "isCorrect": false
+      "team": "San Jose State",
+      "isCorrect": true
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Georgia State",
       "isCorrect": false
     }]
   }, {
@@ -202,28 +202,28 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2032",
       "record": "(9-3, 8-0 Sun Belt)",
-      "score": null,
+      "score": 28,
       "isWinner": false
     }, {
       "name": "Louisiana Tech",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2348",
       "record": "(8-4, 6-2 C-USA)",
-      "score": null,
-      "isWinner": false
+      "score": 47,
+      "isWinner": true
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Arkansas State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
-      "isCorrect": false
+      "team": "Louisiana Tech",
+      "isCorrect": true
     }, {
       "person": "Matt",
-      "team": "",
-      "isCorrect": false
+      "team": "Louisiana Tech",
+      "isCorrect": true
     }]
   }, {
     "bowl": {
@@ -236,27 +236,27 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/98",
       "record": "(11-2, 8-0 C-USA)",
-      "score": null,
-      "isWinner": false
+      "score": 45,
+      "isWinner": true
     }, {
       "name": "South Florida",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/58",
       "record": "(8-4, 6-2 American)",
-      "score": null,
+      "score": 35,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
-      "isCorrect": false
+      "team": "Western Kentucky",
+      "isCorrect": true
     }, {
       "person": "Dad",
-      "team": "",
-      "isCorrect": false
+      "team": "Western Kentucky",
+      "isCorrect": true
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "South Florida",
       "isCorrect": false
     }]
   }, {
@@ -270,27 +270,27 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2006",
       "record": "(7-5, 5-3 MAC)",
-      "score": null,
+      "score": 23,
       "isWinner": false
     }, {
       "name": "Utah State",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/328",
       "record": "(6-6, 5-3 MW)",
-      "score": null,
+      "score": 21,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
-      "isCorrect": false
+      "team": "Akron",
+      "isCorrect": true
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Utah State",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Utah State",
       "isCorrect": false
     }]
   }, {
@@ -304,27 +304,27 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2649",
       "record": "(9-2, 6-2 MAC)",
-      "score": null,
-      "isWinner": false
+      "score": 32,
+      "isWinner": true
     }, {
       "name": "Temple",
       "ranking": 24,
       "url": "http://espn.go.com/college-football/team/_/id/218",
       "record": "(10-3, 7-1 American)",
-      "score": null,
+      "score": 17,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Temple",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Temple",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Temple",
       "isCorrect": false
     }]
   }, {
@@ -338,28 +338,28 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/68",
       "record": "(8-4, 5-3 MW)",
-      "score": null,
-      "isWinner": false
+      "score": 55,
+      "isWinner": true
     }, {
       "name": "Northern Illinois",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2459",
       "record": "(8-5, 6-2 MAC)",
-      "score": null,
+      "score": 7,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
-      "isCorrect": false
+      "team": "Boise State",
+      "isCorrect": true
     }, {
       "person": "Dad",
-      "team": "",
-      "isCorrect": false
+      "team": "Boise State",
+      "isCorrect": true
     }, {
       "person": "Matt",
-      "team": "",
-      "isCorrect": false
+      "team": "Boise State",
+      "isCorrect": true
     }]
   }, {
     "bowl": {
@@ -372,27 +372,27 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/290",
       "record": "(8-4, 6-2 Sun Belt)",
-      "score": null,
-      "isWinner": false
+      "score": 58,
+      "isWinner": true
     }, {
       "name": "Bowling Green",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/189",
       "record": "(10-3, 7-1 MAC)",
-      "score": null,
+      "score": 27,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Bowling Green",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Bowling Green",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Bowling Green",
       "isCorrect": false
     }]
   }, {
@@ -406,27 +406,27 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2393/middle-tennessee-blue-raiders",
       "record": "(7-5, 6-2 C-USA)",
-      "score": null,
-      "isWinner": false
+      "score": 45,
+      "isWinner": true
     }, {
       "name": "Western Michigan",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2711/western-michigan-broncos",
       "record": "(7-5, 6-2 MAC)",
-      "score": null,
+      "score": 31,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Western Michigan",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Western Michigan",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Western Michigan",
       "isCorrect": false
     }]
   }, {
@@ -440,28 +440,28 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/21",
       "record": "(10-3, 8-0 MW)",
-      "score": null,
-      "isWinner": false
+      "score": 42,
+      "isWinner": true
     }, {
       "name": "Cincinnati",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/2132",
       "record": "(7-5, 4-4 American)",
-      "score": null,
+      "score": 7,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
-      "isCorrect": false
+      "team": "San Diego State",
+      "isCorrect": true
     }, {
       "person": "Dad",
-      "team": "",
-      "isCorrect": false
+      "team": "San Diego State",
+      "isCorrect": true
     }, {
       "person": "Matt",
-      "team": "",
-      "isCorrect": false
+      "team": "San Diego State",
+      "isCorrect": true
     }]
   }, {
     "bowl": {
@@ -474,28 +474,28 @@
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/41",
       "record": "(6-6, 4-4 American)",
-      "score": null,
+      "score": 10,
       "isWinner": false
     }, {
       "name": "Marshall",
       "ranking": null,
       "url": "http://espn.go.com/college-football/team/_/id/276",
       "record": "(9-3, 6-2 C-USA)",
-      "score": null,
-      "isWinner": false
+      "score": 16,
+      "isWinner": true
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
-      "isCorrect": false
+      "team": "Marshall",
+      "isCorrect": true
     }, {
       "person": "Dad",
-      "team": "",
-      "isCorrect": false
+      "team": "Marshall",
+      "isCorrect": true
     }, {
       "person": "Matt",
-      "team": "",
-      "isCorrect": false
+      "team": "Marshall",
+      "isCorrect": true
     }]
   }, {
     "bowl": {
@@ -520,15 +520,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Washington State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Washington State",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Washington State",
       "isCorrect": false
     }]
   }, {
@@ -554,15 +554,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Washington",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Washington",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Washington",
       "isCorrect": false
     }]
   }, {
@@ -588,15 +588,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Indiana",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Duke",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Indiana",
       "isCorrect": false
     }]
   }, {
@@ -622,15 +622,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Virginia Tech",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Virginia Tech",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Virginia Tech",
       "isCorrect": false
     }]
   }, {
@@ -656,15 +656,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Nebraska",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "UCLA",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "UCLA",
       "isCorrect": false
     }]
   }, {
@@ -690,15 +690,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Navy",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Navy",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Navy",
       "isCorrect": false
     }]
   }, {
@@ -724,15 +724,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Minnesota",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Minnesota",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Minnesota",
       "isCorrect": false
     }]
   }, {
@@ -758,15 +758,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "California",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "California",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "California",
       "isCorrect": false
     }]
   }, {
@@ -792,15 +792,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "North Carolina",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Baylor",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Baylor",
       "isCorrect": false
     }]
   }, {
@@ -826,15 +826,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Colorado State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Colorado State",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Colorado State",
       "isCorrect": false
     }]
   }, {
@@ -860,15 +860,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "LSU",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "LSU",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "LSU",
       "isCorrect": false
     }]
   }, {
@@ -894,15 +894,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Memphis",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Memphis",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Auburn",
       "isCorrect": false
     }]
   }, {
@@ -928,15 +928,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Mississippi State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Mississippi State",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Mississippi State",
       "isCorrect": false
     }]
   }, {
@@ -962,15 +962,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Louisville",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Texas A&M",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Louisville",
       "isCorrect": false
     }]
   }, {
@@ -996,15 +996,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Wisconsin",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "USC",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "USC",
       "isCorrect": false
     }]
   }, {
@@ -1030,15 +1030,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Florida State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Florida State",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Florida State",
       "isCorrect": false
     }]
   }, {
@@ -1064,15 +1064,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Clemson",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Clemson",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Oklahoma",
       "isCorrect": false
     }]
   }, {
@@ -1098,15 +1098,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Michigan State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Alabama",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Michigan State",
       "isCorrect": false
     }]
   }, {
@@ -1126,21 +1126,21 @@
       "name": "Tennessee",
       "ranking": 23,
       "url": "http://espn.go.com/college-football/team/_/id/2633",
-      "record": "(8-4, 5-2 SEC)",
+      "record": "(8-4, 5-3 SEC)",
       "score": null,
       "isWinner": false
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Tennessee",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Tennessee",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Tennessee",
       "isCorrect": false
     }]
   }, {
@@ -1166,15 +1166,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Michigan",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Michigan",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Michigan",
       "isCorrect": false
     }]
   }, {
@@ -1200,15 +1200,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Ohio State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Ohio State",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Ohio State",
       "isCorrect": false
     }]
   }, {
@@ -1234,15 +1234,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Stanford",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Stanford",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Stanford",
       "isCorrect": false
     }]
   }, {
@@ -1268,15 +1268,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Ole Miss",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Ole Miss",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Oklahoma State",
       "isCorrect": false
     }]
   }, {
@@ -1302,15 +1302,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Georgia",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Georgia",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Georgia",
       "isCorrect": false
     }]
   }, {
@@ -1336,15 +1336,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Arkansas",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "Arkansas",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Arkansas",
       "isCorrect": false
     }]
   }, {
@@ -1370,15 +1370,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Oregon",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "TCU",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "Oregon",
       "isCorrect": false
     }]
   }, {
@@ -1404,15 +1404,15 @@
     }],
     "picks": [{
       "person": "Jason",
-      "team": "",
+      "team": "Arizona State",
       "isCorrect": false
     }, {
       "person": "Dad",
-      "team": "",
+      "team": "West Virginia",
       "isCorrect": false
     }, {
       "person": "Matt",
-      "team": "",
+      "team": "West Virginia",
       "isCorrect": false
     }]
   }, {

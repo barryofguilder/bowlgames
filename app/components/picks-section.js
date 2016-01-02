@@ -7,7 +7,8 @@ export default Ember.Component.extend({
     let element = this.$();
     this.fixPickHeight(element);
 
-    $(window).resize(() => {
+
+    Ember.$(window).resize(() => {
       this.fixPickHeight(element);
     });
   },

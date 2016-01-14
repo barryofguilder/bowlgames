@@ -16,7 +16,7 @@ export default Ember.Route.extend({
     });
   },
 
-  serialize: function(model, params) {
+  serialize: function(model) {
     // If we got here without a 'year' (and therefore without a model)
     // Redirect to the most recent year
     if (!model) {
